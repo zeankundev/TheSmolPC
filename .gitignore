@@ -1,0 +1,15 @@
+# KiCad project .gitignore
+# Exclude backups and caches
+
+# KiCad backup directories (common naming convention)
+*-backups/
+*-backup/
+
+# Backup files
+*.bak
+
+# Temporary files
+*.tmp
+
+# Project local settings (user-specific, often regenerated)
+*.kicad_prl
