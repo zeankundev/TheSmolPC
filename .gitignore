@@ -10,6 +10,7 @@
 
 # Temporary files
 *.tmp
+fp-info-cache
 
 # Project local settings (user-specific, often regenerated)
 *.kicad_prl
