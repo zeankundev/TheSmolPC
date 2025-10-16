@@ -16,8 +16,15 @@ Started the KiCad project as well as writing a bit of README on how the project 
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTAwNSwicHVyIjoiYmxvYl9pZCJ9fQ==--62dedbc11f0b9e4459ef1881af6b9f5ec4ecc73b/image.png)
   
 
-## 10/16/2025 - More setup on the project  
+## 10/16/2025 3 PM - More setup on the project  
 
 I did set up lots of things in things ahead of the project, such as the main brains called the RP2350B and a lot of salvaging from a random GitHub repo to just be able to fetch those footprints I needed for this project that I will be doing, so expect more updates!
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjQ2NSwicHVyIjoiYmxvYl9pZCJ9fQ==--fa2381b07d5217d695e35c7f07f3adc8b1a56aba/image.png)  
+
+## 10/16/2025 4 PM - Made the block diagram in Figma  
+
+Of course, great ideas doesn't exist without a plan constructing what to be expected later on. Everyone has a plan, so I made the block diagram for the thingy, which will illustrate how will my architecture go, so it's better for all to just understand under the hood
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjQ2NiwicHVyIjoiYmxvYl9pZCJ9fQ==--a149917e1976b4fbd596af4d57c0e0391c4ca6a8/image.png)
+  
 
