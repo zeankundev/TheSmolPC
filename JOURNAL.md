@@ -28,3 +28,9 @@ Of course, great ideas doesn't exist without a plan constructing what to be expe
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjQ2NiwicHVyIjoiYmxvYl9pZCJ9fQ==--a149917e1976b4fbd596af4d57c0e0391c4ca6a8/image.png)
   
 
+## 10/18/2025 - Partially completed the schematic  
+
+I made the schematic per the block diagram I have designed, now I am still consulting regarding the HSTX out for video output whether if I did it correctly, but some parts of the schematic is finished, just need for one to assist me and I can continue the rest. So yeah, expect more to come.
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjgyMSwicHVyIjoiYmxvYl9pZCJ9fQ==--7c0eb22410df15f0ed2d76142e142695001b8775/image.png)
+  
+
