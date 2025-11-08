@@ -6,10 +6,6 @@
   ==================================================================
 -->
 
-This is my journal of the design and building process of **The Smol PC**.  
-You can view this journal in more detail on **Hack Club Blueprint** [here](https://blueprint.hackclub.com/projects/305).
-
-
 ## 10/8/2025 - Started the project!  
 
 Started the KiCad project as well as writing a bit of README on how the project should go, such as what things should I consider in my head, as well as a bit of AI consultation just to know what could be added to further improve the experience of a PC-like one.
@@ -32,5 +28,12 @@ Of course, great ideas doesn't exist without a plan constructing what to be expe
 
 I made the schematic per the block diagram I have designed, now I am still consulting regarding the HSTX out for video output whether if I did it correctly, but some parts of the schematic is finished, just need for one to assist me and I can continue the rest. So yeah, expect more to come.
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjgyMSwicHVyIjoiYmxvYl9pZCJ9fQ==--7c0eb22410df15f0ed2d76142e142695001b8775/image.png)
+  
+
+## 11/8/2025 - Completed the schematic!  
+
+Sorry I was on a long hiatus on this program, laziness and hoards of assignment struck me. But I managed to do this under 1h 45m (of course with sequential but long breaks)
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTM0NiwicHVyIjoiYmxvYl9pZCJ9fQ==--5e7572b4a3e49a2d9556372bff798d382bdf08f3/image.png)
   
 
